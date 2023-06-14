@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Ebonie Rangel",
+      "address": "7175 Yukon Street",
+      "phone": "(507) 833-3567",
+      "course": "Geography"
+    },
+    {
+        "name": "Keenan Ellwood",
+        "address": "2 Elm Lane",
+        "phone": "(894) 831-6482",
+        "course": "History"
+      },
+      {
+        "name": "Kailan Smart",
+        "address": "795 Harvard Street",
+        "phone": "(925) 856-5167",
+        "course": "Biology"
+      },
+      {
+        "name": "Kaydan Hirst",
+        "address": "9 East Lakeview Ave.",
+        "phone": "(939) 812-6141",
+        "course": "Programming"
+      },
+      {
+        "name": "Isabelle Prentice",
+        "address": "700 Rock Maple St.",
+        "phone": "(899) 875-8627",
+        "course": "Math"
+      }
+  ]
